@@ -1,5 +1,5 @@
 ## Hi there 👋
-You can see details of this organization's repository by selecting "Member" in the "View as:" on the right.
+You can see details of this organization's repository by selecting "Member" in [👁View as: ] on the right.
 
 <!--
 
